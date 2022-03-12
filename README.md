@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammad Turaab</h1>
-<h3 align="center">A passionate software engineer from Houston, TX</h3>
+<h3 align="center">I am a software engineer from Houston, TX</h3>
 
 - 🔭 I’m currently working on **learning React**
 
