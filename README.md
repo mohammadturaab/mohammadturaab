@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mohammad Turaab</h1>
-<h3 align="center">I am a software engineer from Houston, TX</h3>
+<h1>Hi 👋, I'm Mohammad Turaab</h1>
+<h3>I am a software engineer from Houston, TX</h3>
 
 <!-- - 🔭 I’m currently working on **learning React** -->
 
