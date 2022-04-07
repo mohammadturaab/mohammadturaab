@@ -1,9 +1,17 @@
-<h2>Hi 👋, I'm Mohammad Turaab</h2>
+<h3>Hi 👋, I'm Mohammad Turaab</h3>
 
-<h1>Connect with me</h1>
-<a href="https://www.linkedin.com/in/mohammadturaab/">LinkedIn</a>
-<a href="#">Website</a>
-<a href="https://twitter.com/mohammadturaab">Twitter</a>
+<h2>Connect with me</h2>
+<ul>
+  <li>
+    <a href="https://www.linkedin.com/in/mohammadturaab/">LinkedIn</a>
+  </li>
+  <li>
+    <a href="#">Website</a>
+  </li>
+  <li>
+    <a href="https://twitter.com/mohammadturaab">Twitter</a>
+  </li>
+</ul>
 
 <!---
 mohammadturaab/mohammadturaab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
