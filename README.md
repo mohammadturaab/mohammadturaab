@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammad Turaab</h1>
 <h3 align="center">I am a software engineer from Houston, TX</h3>
 
-- 🔭 I’m currently working on **learning React**
+<!-- - 🔭 I’m currently working on **learning React** -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
