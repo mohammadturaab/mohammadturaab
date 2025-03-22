@@ -3,7 +3,7 @@
 <h2>Connect with me</h2>
 <ul>
   <li>
-    <a href="https://www.linkedin.com/in/mohammadturaab/ target="_blank">LinkedIn</a>
+    <a href="https://www.linkedin.com/in/mohammadturaab/" target="_blank">LinkedIn</a>
   </li>
   <li>
     <a href="#">Website</a>
